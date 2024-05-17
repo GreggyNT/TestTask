@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/5T2+Bu7lR43NmeujGaKonRKYeIfsRG5u2tIIrYN8rFgwfnkO2JoP1dpNQOrbhRak4yh7mBp+oPwFjVilk3Llg==",
+  "dgSpecHash": "l6OjekbmwZOaL/0bM6hZ0/Be2ZuK7iaGIMd758e39OYw+awPsQGj0Gn+J+wdQg6xPKX2HaML51hTU+ZvoQbBYA==",
   "success": true,
   "projectFilePath": "/home/gregster/Загрузки/TestTask/TestTask/TestTask.csproj",
   "expectedPackageFiles": [
@@ -69,10 +69,7 @@
     "/home/gregster/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
     "/home/gregster/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
     "/home/gregster/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "/home/gregster/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512",
-    "/home/gregster/.nuget/packages/microsoft.netcore.app.ref/6.0.27/microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
-    "/home/gregster/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.27/microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
-    "/home/gregster/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.27/microsoft.netcore.app.host.linux-x64.6.0.27.nupkg.sha512"
+    "/home/gregster/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
