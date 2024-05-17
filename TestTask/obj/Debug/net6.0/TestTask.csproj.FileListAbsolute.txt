@@ -1,0 +1,7 @@
+/home/gregster/Загрузки/TestTask/TestTask/obj/Debug/net6.0/TestTask.csproj.AssemblyReference.cache
+/home/gregster/Загрузки/TestTask/TestTask/obj/Debug/net6.0/TestTask.GeneratedMSBuildEditorConfig.editorconfig
+/home/gregster/Загрузки/TestTask/TestTask/obj/Debug/net6.0/TestTask.AssemblyInfoInputs.cache
+/home/gregster/Загрузки/TestTask/TestTask/obj/Debug/net6.0/TestTask.AssemblyInfo.cs
+/home/gregster/Загрузки/TestTask/TestTask/obj/Debug/net6.0/TestTask.csproj.CoreCompileInputs.cache
+/home/gregster/Загрузки/TestTask/TestTask/obj/Debug/net6.0/TestTask.MvcApplicationPartsAssemblyInfo.cs
+/home/gregster/Загрузки/TestTask/TestTask/obj/Debug/net6.0/TestTask.MvcApplicationPartsAssemblyInfo.cache
